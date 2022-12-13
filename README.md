@@ -1,13 +1,14 @@
-Attached below are REMAINING REPOSITORIES that are not pinned under my profiel. Do have a look if you're interested 😊
+ATTACHED BELOW ARE** REMAINING REPOSITORIES THAT ARE NOT PINNED BELOW** DUE TO MAX LIMIT OF 6 REPOSITORY PINS. 
+DO HAVE A LOOK IF YOU'RE INTERESTED 😊
 
 
 
-**7. Laptop Repair Service Management System**
+**7. Learn-R**
 
-_https://github.com/justinong00/Laptop-Repair-Services-Management-System_
+_https://github.com/justinong00/Learn-R_
 
-Language: C#
+Language: R
 
-Description: A GUI system where Receptionist can register new customers and record service demand. Technician can view the service demand and process a service completion. Customer can modify service demand, view collection date and service payment. Admin can register new technician and receptionist as well as view monthly service reports and total income.
+Description: Explored the the student.csv dataset elicited from 2 Portuguese schools, Gabriel Pereira University and Mousinho da Silveira University which contained academic performance of its corresponding students to perform various data exploration, manipulation, transformation, and visualization techniques using R.
 
 
